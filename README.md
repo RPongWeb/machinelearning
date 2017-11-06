@@ -1,5 +1,3 @@
-# machinelearning
-Supervised VS Unsupervised 
 
 # Supervised Learning
 
